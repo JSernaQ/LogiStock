@@ -1,0 +1,7 @@
+{
+  "name": "LogiStock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
